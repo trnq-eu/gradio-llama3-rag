@@ -4,6 +4,8 @@ Document analyzer with a Gradio interface.
 
 The chatbot uses Llama3 via Groq API, Llamaindex and Chromadb as a vectorstore.
 
+I'm using Nomic for text embedding.
+
 
 ## TO-DO
 

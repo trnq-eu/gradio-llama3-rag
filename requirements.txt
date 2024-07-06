@@ -1,0 +1,3 @@
+llama_index
+chromadb
+llama-index-embeddings-nomic
